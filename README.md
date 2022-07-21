@@ -1,1 +1,1 @@
-# SEG3125 Final Project = Andre Nonaka Cordova
+# SEG3125 Final Project
